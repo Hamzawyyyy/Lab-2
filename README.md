@@ -1,22 +1,20 @@
-# Lab 2: Git and GitHub
+# Lab 2 - Git and GitHub
 
-This repository is for practicing the basic Git and GitHub workflow: creating a repository, working on a branch, making a commit, opening a pull request, and merging changes into main.
+This is my lab 2 task. Its about using Git and GitHub to save changes and work with branches.
 
-## Workflow
+## Steps for this task
 
-1. Create a public repository and initialize it with a README.
-2. Create a branch named `feature/update-readme` from `main`.
-3. Update this README on the feature branch.
-4. Commit the changes with a clear, meaningful message.
-5. Open a pull request from `feature/update-readme` into `main`.
-6. Review the changes and merge the pull request.
+1. Make a public repo and add a README file.
+2. Make a new branch called `feature/update-readme` from `main`.
+3. Change the README in the new branch.
+4. Save the changes with a commit and a short message.
+5. Open a pull request to add the changes to `main`.
+6. Check the changes and merge the pull request.
 
-## Key Concepts
+## What the words mean
 
-- **Repository:** Stores project files and their version history.
-- **Branch:** A separate line of development for making changes.
-- **Commit:** A saved snapshot of changes with a descriptive message.
-- **Pull request:** Proposes changes from one branch to another for review.
-- **Merge:** Combines the feature branch changes into `main`.
-
-This README update is made on the feature branch to demonstrate the workflow.
+- **Repo:** The place where the project files and old changes are saved.
+- **Branch:** A place to work on changes before adding them to main.
+- **Commit:** Saves the changes with a message saying what changed.
+- **Pull request:** Lets you check changes before merging them.
+- **Merge:** Adds the changes from the branch into main.
